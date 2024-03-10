@@ -10,7 +10,13 @@ import java.util.regex.*;
 
 class Res {
 
-  public static void plusMinus(List<Integer> arr) {
+    /*
+     * Complete the 'plusMinus' function below.
+     *
+     * The function accepts INTEGER_ARRAY arr as parameter.
+     */
+
+    public static void plusMinus(List<Integer> arr) {
         
         int n = arr.size();
         int positivecount =0;
