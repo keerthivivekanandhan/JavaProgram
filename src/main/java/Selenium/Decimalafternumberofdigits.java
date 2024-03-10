@@ -10,9 +10,7 @@ import java.util.regex.*;
 
 class Res {
 
-   
-
-    public static void plusMinus(List<Integer> arr) {
+  public static void plusMinus(List<Integer> arr) {
         
         int n = arr.size();
         int positivecount =0;
